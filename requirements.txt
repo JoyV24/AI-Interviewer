@@ -1,0 +1,10 @@
+streamlit
+openai==0.28.0
+PyPDF2
+python-docx
+SpeechRecognition
+pyaudio
+plotly
+pandas
+python-dotenv
+python-dateutil
