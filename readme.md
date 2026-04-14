@@ -57,7 +57,6 @@ proj1/
 ### 2. Clone the Repository
 ```bash
 git clone https://github.com/JoyV24/AI-Interviewer.git
-cd AI-Interviewer/proj1
 ```
 
 ### 3. Install Dependencies
